@@ -6,7 +6,7 @@
 💼 Stay one step ahead of fraudsters and safeguard your financial assets with our comprehensive fraud detection solutions. 
 
 I have already done a ml project based on this ...you can see here 👇
-https://lnkd.in/grRQTSmH
+https://www.linkedin.com/posts/ameetraj_securepay-ml-project-for-online-payment-activity-7170531718100111360-1RfK?utm_source=share&utm_medium=member_desktop
 
 
 ![1710211100758](https://github.com/user-attachments/assets/fc80d131-0bab-4a2c-a4c2-29abb1171a19)
