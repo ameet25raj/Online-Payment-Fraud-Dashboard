@@ -5,7 +5,9 @@
 💰 By leveraging advanced analytics and cutting-edge technology, we can proactively identify fraudulent activities and protect against potential threats. 
 💼 Stay one step ahead of fraudsters and safeguard your financial assets with our comprehensive fraud detection solutions. 
 
-I have already done a ml project based on this ...you can see here 👇
+I have already done a ml project based on this ...
+you can see here 👇
+
 https://www.linkedin.com/posts/ameetraj_securepay-ml-project-for-online-payment-activity-7170531718100111360-1RfK?utm_source=share&utm_medium=member_desktop
 
 
